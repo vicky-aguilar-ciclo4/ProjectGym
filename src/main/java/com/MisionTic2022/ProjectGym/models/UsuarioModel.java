@@ -2,8 +2,9 @@ package com.MisionTic2022.ProjectGym.models;
 
 import javax.persistence.*;
 
+// comentaRIO
 @Entity
-@Table(name = "usuario")
+@Table (name = "usuario")
 public class UsuarioModel {
     
     @Id
